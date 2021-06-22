@@ -1,4 +1,4 @@
-baseurl      = "devopsbrett.github.io"
+baseurl      = "/"
 title        = "Brett Mack"
 languageCode = "en-gb"
 theme        = "hello-friend-ng"
