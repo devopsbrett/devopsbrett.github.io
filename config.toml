@@ -30,11 +30,11 @@ paginate     = 10
 
 [[params.social]]
     name = "email"
-    url = "mailto:hello@brettmack.me"
+    url = "mailto:mack.brett@gmail.com"
 
 [[params.social]]
     name = "keybase"
-    url = "https://keybase.io/mackbrett"
+    url = "https://keybase.io/devopsbrett"
 
 [[params.social]]
     name = "soundcloud"
